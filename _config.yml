@@ -17,14 +17,6 @@ permalink: /:title
 paginate: 8
 paginate_path: /page:num/
 
-# Order
-header_pages:
-  - about.md
-  - research.md
-  - project.md
-  - teaching.md
-  - service.md
-
 # Default values
 defaults:
   -
