@@ -7,7 +7,7 @@ description:
 
 ## About Us
 
-The **Text Analytics Lab (TAL)** at Myongji University, directed by Professor **Yoo Kyung Jeong**, focuses on extracting meaningful insights and discovering hidden patterns from large-scale unstructured data. Our laboratory stands at the intersection of Information Science and Data Science, utilizing advanced computational methods to address complex social, cultural, and scientific questions.
+The **Text Analytics Lab (TAL)**  focuses on extracting meaningful insights and discovering hidden patterns from large-scale unstructured data. Our laboratory stands at the intersection of Information Science and Data Science, utilizing advanced computational methods to address complex social, cultural, and scientific questions.
 As we are currently in the foundational stage, our lab is actively building a collaborative research environment dedicated to pushing the boundaries of text-based knowledge discovery. We aim to bridge the gap between technical innovation and humanistic inquiry through rigorous data-driven methodologies.
 
 ### Research Focus
@@ -23,7 +23,7 @@ Our research program is centered on the application of machine learning and natu
 
 The Text Analytics Lab is looking for highly motivated undergraduate and graduate students who are passionate about data science, text mining, and their applications in the social sciences or humanities. 
 If you are interested in joining our research journey—whether you have a background in programming (Python/R) or a deep interest in information analysis—we encourage you to reach out. We value intellectual curiosity, methodological rigor, and a collaborative spirit.
-**Interested students are invited to contact Professor Jeong with a brief introduction of their research interests and a CV.**
+**Interested students are invited to contact yk.jeong@mju.ac.kr with a brief introduction of their research interests and a CV.**
 
 
 
