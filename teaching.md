@@ -9,21 +9,22 @@ description:
 
 &nbsp;
 
-Undergraduate:
+**Undergraduate:**
 {: style="margin-bottom: 0;"}
 - Data Programming
 - Text Mining
 - LIS Capstone Design
 
-Graduate:
+**Graduate:**
 {: style="margin-bottom: 0;"}
 - Scholarly Text Mining
 - Web Database
 
-Graduate School of Education
+**Graduate School of Education**
 {: style="margin-bottom: 0;"}
 - Seminar in Theory of Information Media
 
+&nbsp;
 &nbsp;
 
 Hannam Univ. (2020~2024, Asst. Prof.)
