@@ -14,15 +14,15 @@ Check latest publications and preprints at [Google Scholar](https://scholar.goog
 
 #### 2025 
 
-**<a href="https://doi.org/10.3743/KOSIM.2025.42.4.467" target="_blank" rel="noopener noreferrer>국내 디지털 인문학 분야의 학술지 동시인용 분석</a>** <br>
+**<a href="https://doi.org/10.3743/KOSIM.2025.42.4.467" target="_blank" rel="noopener noreferrer">국내 디지털 인문학 분야의 학술지 동시인용 분석</a>** <br>
 정유경  
 정보관리학회지, 42(4), 467-488 <br>
 
-**<a href="https://doi.org/10.3743/KOSIM.2025.42.4.159" target="_blank" rel="noopener noreferrer>비판적 미디어 리터러시와 정보 공유의 관계에서 소비자 혁신성의 매개효과</a>** <br>
+**<a href="https://doi.org/10.3743/KOSIM.2025.42.4.159" target="_blank" rel="noopener noreferrer">비판적 미디어 리터러시와 정보 공유의 관계에서 소비자 혁신성의 매개효과</a>** <br>
 최윤희, 정유경*   
 정보관리학회지, 42(4), 159-181 <br>
 
-**<a href="https://doi.org/10.36274/hakrim.2025.55..327" target="_blank" rel="noopener noreferrer>대한제국 후기 ‘민족개념’의 추이와 의미화 양상</a>** <br>
+**<a href="https://doi.org/10.36274/hakrim.2025.55..327" target="_blank" rel="noopener noreferrer">대한제국 후기 ‘민족개념’의 추이와 의미화 양상</a>** <br>
 이태훈*, 정유경  
 학림, 55, 327-359 <br>
 
