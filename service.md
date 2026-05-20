@@ -38,8 +38,6 @@ Reviewer
 ## Student Advising & Office Hours
 Interested students are invited to schedule an academic advising session or research consultation using the form below.
 
-<iframe src="면담신청링크" width="100%" height="600px" frameborder="0"></iframe>
-
 <iframe
   src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR6sEeYeKNoUzkVi5Jf18fEluPoX_1NNvQUPUefyfUq_uIsadXHE0ggs0k3IUPnLK-HaU_OVodKOn1T/pubhtml?gid=1917684871&amp;single=true&amp;widget=true&amp;headers=false"
   width="100%"
