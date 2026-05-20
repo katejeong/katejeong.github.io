@@ -26,14 +26,14 @@ Graduate School of Education
 
 &nbsp;
 
-Hannam Univ. (Asst. Prof.)
+Hannam Univ. (2020~2024, Asst. Prof.)
 {: style="margin-bottom: 0;"}
 - Text Mining (Capstone Design), Data Mining
 - Data Science, Data Visualization
 - Information Retrieval, Indexing and Thesaurus, Cataloging, Metadata
 - Library and Information Network 
 
-Yonsei Univ. (Lecturer)
+Yonsei Univ. (2017~2019, Lecturer)
 {: style="margin-bottom: 0;"}
 - Introduction to Text Processing
 - Information Media

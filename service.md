@@ -33,6 +33,21 @@ Reviewer
 * **대전광역시**, 정보공개심의회 위원 (2021.12 – 2023.12)
 * **대전광역시시설관리공단**, 정보공개심의회 위원 (2024.01 – 2026.01)
 
+<br>
+#### Student Advising & Office Hours
+## Student Advising & Office Hours
+Interested students are invited to schedule an academic advising session or research consultation using the form below.
+
+<iframe src="면담신청링크" width="100%" height="600px" frameborder="0"></iframe>
+
+<iframe
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR6sEeYeKNoUzkVi5Jf18fEluPoX_1NNvQUPUefyfUq_uIsadXHE0ggs0k3IUPnLK-HaU_OVodKOn1T/pubhtml?gid=1917684871&amp;single=true&amp;widget=true&amp;headers=false"
+  width="100%"
+  height="600"
+  frameborder="0"
+  style="border: none;">
+</iframe>
+
 
 &nbsp;
 &nbsp;
